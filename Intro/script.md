@@ -1,0 +1,2 @@
+# Intro
+## Hi! I'm Daniel and welcome to Devspacito, my new channel for showing the projects I think are interesting and entertaining as well as any other tech topics I think are important and that I understand. Right after this vide goes up, I'm going to put up the first _real_ video, starting my first series, "Made in a Week" where I challenge myself to finish a project in a week. If you made it this far, thank you and I hope you join me as we embark on this journey.
